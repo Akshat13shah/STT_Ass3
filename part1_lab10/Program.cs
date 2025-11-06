@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace STT_CSE_lab10
+namespace part1_lab10
 {
     internal class Sample
     {
