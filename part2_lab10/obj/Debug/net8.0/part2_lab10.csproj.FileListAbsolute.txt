@@ -1,0 +1,14 @@
+C:\Users\aksha\source\repos\part2_lab10\bin\Debug\net8.0\part2_lab10.exe
+C:\Users\aksha\source\repos\part2_lab10\bin\Debug\net8.0\part2_lab10.deps.json
+C:\Users\aksha\source\repos\part2_lab10\bin\Debug\net8.0\part2_lab10.runtimeconfig.json
+C:\Users\aksha\source\repos\part2_lab10\bin\Debug\net8.0\part2_lab10.dll
+C:\Users\aksha\source\repos\part2_lab10\bin\Debug\net8.0\part2_lab10.pdb
+C:\Users\aksha\source\repos\part2_lab10\obj\Debug\net8.0\part2_lab10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aksha\source\repos\part2_lab10\obj\Debug\net8.0\part2_lab10.AssemblyInfoInputs.cache
+C:\Users\aksha\source\repos\part2_lab10\obj\Debug\net8.0\part2_lab10.AssemblyInfo.cs
+C:\Users\aksha\source\repos\part2_lab10\obj\Debug\net8.0\part2_lab10.csproj.CoreCompileInputs.cache
+C:\Users\aksha\source\repos\part2_lab10\obj\Debug\net8.0\part2_lab10.dll
+C:\Users\aksha\source\repos\part2_lab10\obj\Debug\net8.0\refint\part2_lab10.dll
+C:\Users\aksha\source\repos\part2_lab10\obj\Debug\net8.0\part2_lab10.pdb
+C:\Users\aksha\source\repos\part2_lab10\obj\Debug\net8.0\part2_lab10.genruntimeconfig.cache
+C:\Users\aksha\source\repos\part2_lab10\obj\Debug\net8.0\ref\part2_lab10.dll
